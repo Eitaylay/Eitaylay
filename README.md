@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eitaylay
-- 👀 I’m interested in Python, Machine Learning & Data Science and blockchain
-- 🌱 I’m currently learning Python and blockchain.
+- 👀 I’m interested in Python, Flutter and blockchain
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m not currently interested to collaborate on anything.
 - 📫 How to reach me ... eitaylay2011@gmail.com
 
